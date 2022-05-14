@@ -9,5 +9,7 @@ I have tried to explore the main commands for creating and manipulating a databa
 
 I hope that the document can help you in your start on the database path.
 
+Note: The document is in European Portuguese.
+
 
 
